@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Vitoria!, cambio en mi tarea Jenkins</h2>
+<h2>Desplegado automáticamente por Jenkins vía Webhook</h2>
 </body>
 </html>
